@@ -25,6 +25,3 @@ create table
     resume_url text
   );
 
-
-b22N%eFYE8bumQw
-QpcnGWmMbrOKCe0M
