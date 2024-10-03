@@ -1,0 +1,7 @@
+reflex==0.6.1
+supabase
+supabase-py
+httpx==0.16.1
+websockets==9.1
+gotrue==2.7.0
+pip install --upgrade postgrest-py realtime-py supabase
